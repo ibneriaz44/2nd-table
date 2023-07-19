@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(2, 103, 69);
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
+table {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    direction: rtl;
+    
+}
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: alvi nastaleeq;
+    font: bolder;
+}
+th, td {
+    padding: 10px;
+    color: #000;
+    background-color: #fff;
+     font-size: 20px;
+}
+table :hover {
+    color: #fff;
+    background-color: rgb(9, 106, 37);
+}
+th {
+  
+}
+.qalqala {
+    color: rgb(29, 140, 230);
+}
+.halqi {
+    color: orange;
+}
+
